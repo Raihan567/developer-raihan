@@ -20,6 +20,7 @@ section{
 .half-width{
     width:50%;
     padding-left: 7%;
+    margin-bottom: 150px;
 }
 .half-width img{
     width: 80%;

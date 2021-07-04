@@ -2,46 +2,47 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
 body{
     font-family: 'Poppins', sans-serif;
     background-color: #fefefe;
 }
 h1{
-    font-size: 3.125em;
+font-size: 50px;
 }
 .orange_color{
     color: orange;
 }
 section{
     display: flex;
-
 }
 .half-width{
-    width:50%;
+    width: 100%;
     padding-left: 7%;
     margin-bottom: 150px;
+    margin-top: 35px;
 }
 .half-width img{
     width: 80%;
 }
 .link_btn{
     text-decoration: none;
-    font-weight: 700;
     background-image: linear-gradient(lightsalmon, tomato);
-    padding:10px 40px;
+    padding: 10px 40px;
     border-radius: 8%;
-    color: #fff;
+    font-weight: 700;
+    color:#fff;
 }
 .p-graph{
     margin-bottom: 30px;
 }
-.first-heading{
-    margin-bottom: 30px;
-    margin-top: 45px;
+.first_heading{
+    margin-bottom: 40px;
 }
-.third-heading{
+.second_heading{
+    margin-bottom: 40px;
+}
+.third_heading{
     margin-bottom: 20px;
-    font-weight: bold;
-
 }

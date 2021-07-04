@@ -6,32 +6,40 @@
 body{
     font-family: 'Poppins', sans-serif;
     background-color: #fefefe;
-}h1{
-    font-size: 50px;
 }
-section{
-    display: flex;
+h1{
+    font-size: 3.125em;
 }
 .orange_color{
     color: orange;
 }
+section{
+    display: flex;
+
+}
 .half-width{
-width: 100%;
-padding-left: 8%;
-margin-top: 30px;
+    width:100%;
+    padding-left: 7%;
 }
 .half-width img{
-    width: 95%;
+    width: 80%;
 }
 .link_btn{
     text-decoration: none;
+    font-weight: 700;
     background-image: linear-gradient(lightsalmon, tomato);
-    padding: 10px 40px;
+    padding:10px 40px;
     border-radius: 8%;
 }
 .p-graph{
     margin-bottom: 30px;
 }
 .first-heading{
-    margin-bottom: 25px;
+    margin-bottom: 30px;
+    margin-top: 45px;
+}
+.third-heading{
+    margin-bottom: 20px;
+    font-weight: bold;
+
 }
